@@ -1,4 +1,4 @@
-package com.vikash.test.core;
+package com.origo.demo.core;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

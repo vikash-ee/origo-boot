@@ -1,4 +1,4 @@
-package com.vikash.test.core;
+package com.origo.demo.core;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
